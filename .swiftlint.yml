@@ -1,0 +1,21 @@
+excluded: # paths to ignore during linting. Takes precedence over `included`.
+- Pods
+
+included:
+- Fidacity
+
+line_length: 300
+cyclomatic_complexity: 12
+function_body_length: 65
+function_parameter_count: 8
+file_length: 600
+
+identifier_name:
+    min_length: 2 # only min_length
+    error: 4 # only error
+    excluded: # excluded via string array
+        - id
+
+disabled_rules:
+    - trailing_whitespace
+    - vertical_whitespace

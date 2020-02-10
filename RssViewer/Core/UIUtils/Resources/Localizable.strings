@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  RssViewer
+
+  Created by Denis on 08/02/2020.
+  Copyright © 2020 DS. All rights reserved.
+*/
+
+"RssEmptySources_header" = "You have no rss sources.\n Add first one to start ues the app";
+"RssEmptySources_addButton" = "Add Source";
+
+"RssSourcesAdd_header" = "New source";
+"RssSourcesAdd_information" = "Enter RSS source url:";
+"RssSourcesAdd_fieldPlaceholder" = "RSS link";
+"RssSourcesAdd_addButton" = "Add Source";
