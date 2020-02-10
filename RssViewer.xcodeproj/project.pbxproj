@@ -26,7 +26,6 @@
 		922F72EA23F0E00C0056DB05 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922F72E923F0E00C0056DB05 /* AppDelegate.swift */; };
 		922F72EC23F0E00C0056DB05 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922F72EB23F0E00C0056DB05 /* SceneDelegate.swift */; };
 		922F72F123F0E00C0056DB05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 922F72EF23F0E00C0056DB05 /* Main.storyboard */; };
-		922F72F323F0E00D0056DB05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 922F72F223F0E00D0056DB05 /* Assets.xcassets */; };
 		922F72F623F0E00D0056DB05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 922F72F423F0E00D0056DB05 /* LaunchScreen.storyboard */; };
 		922F72FF23F0E0500056DB05 /* AppResolver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922F72FD23F0E0500056DB05 /* AppResolver.swift */; };
 		922F730023F0E0500056DB05 /* StartRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922F72FE23F0E0500056DB05 /* StartRouter.swift */; };
@@ -91,7 +90,6 @@
 		922F72E923F0E00C0056DB05 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		922F72EB23F0E00C0056DB05 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		922F72F023F0E00C0056DB05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		922F72F223F0E00D0056DB05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		922F72F523F0E00D0056DB05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		922F72F723F0E00D0056DB05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		922F72FD23F0E0500056DB05 /* AppResolver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppResolver.swift; sourceTree = "<group>"; };
@@ -214,7 +212,6 @@
 				922F730123F0E0580056DB05 /* Core */,
 				922F732B23F0E0580056DB05 /* Features */,
 				922F72EF23F0E00C0056DB05 /* Main.storyboard */,
-				922F72F223F0E00D0056DB05 /* Assets.xcassets */,
 				922F72F423F0E00D0056DB05 /* LaunchScreen.storyboard */,
 				922F72F723F0E00D0056DB05 /* Info.plist */,
 			);
@@ -561,7 +558,6 @@
 			files = (
 				9214503C23F1025F00CF5901 /* Localizable.strings in Resources */,
 				922F72F623F0E00D0056DB05 /* LaunchScreen.storyboard in Resources */,
-				922F72F323F0E00D0056DB05 /* Assets.xcassets in Resources */,
 				9275EF1123F0FC8A0009E9C0 /* Colors.xcassets in Resources */,
 				9214505523F11D7300CF5901 /* Assets.xcassets in Resources */,
 				922F72F123F0E00C0056DB05 /* Main.storyboard in Resources */,
